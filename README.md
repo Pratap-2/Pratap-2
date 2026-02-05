@@ -1,31 +1,51 @@
-# Hi there, I'm Pratap_official! 👋
+# Hi there, I'm Pratap!! 👋
 
 <div align="center">
   <img src="ADITYA NEW IMAGE.jpg" width="180" height="180" style="border-radius: 50%;" />
-  <h1>Aditya Pratap Singh (A.P.S.)</h1>
+  <h1>Aditya Pratap Singh</h1>
   <p><b>Machine Learning Enthusiast | Data Science | Python</b></p>
 </div>
+
+---
+
+## 🎓 Education
+
+**Indian Institute of Technology (ISM), Dhanbad**  
+
+*Integrated Master of Technology (B.Tech+ M.Tech) – Mathematics & Computing*  
+
+📍 Dhanbad, Jharkhand 
+
+### 📘 Academic Highlights
+
+<table align="center">
+  <tr>
+    <td><b>🎯 GPA</b></td>
+    <td><b>📚 Relevant Coursework</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>9.36 / 10.00</b></td>
+    <td>
+      <ul>
+        <li>Data Structures & Algorithms (C++)</li>
+        <li>Object-Oriented Programming (C++)</li>
+        <li>Probability & Statistics</li>
+        <li>Statistical Inference</li>
+        <li>Computer Organization & Architecture</li>
+        <li>GPU Computing</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratap-2&show_icons=true&theme=radical&count_private=true" height="150" alt="Pratap-2's GitHub stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Pratap-2&show_icons=true&theme=radical&count_private=true" height="150" alt="Pratap-2's GitHub stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratap-2&theme=radical" height="150" alt="Pratap-2's GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratap-2&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
-
-## 📂 Featured Repositories
-
-- **[PrimeML](https://github.com/Pratap-2/AI-ML)**: My journey in AI/ML, covering NumPy, Pandas, OOPs, and ML algorithms.
-- **[Vuen_Code_Hackathon](https://github.com/Pratap-2/Vuen_Code_Hackathon)**: Hackathon project.
-- **[nl2query](https://github.com/Pratap-2/nl2query)**: Natural language to query framework.
 
 ---
 
