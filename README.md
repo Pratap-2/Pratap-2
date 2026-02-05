@@ -1,7 +1,7 @@
 # Hi there, I'm Pratap_official! 👋
 
 <div align="center">
-  <img src="assets/profile.png" width="180" height="180" style="border-radius: 50%;" />
+  <img src="profile.png" width="180" height="180" style="border-radius: 50%;" />
   <h1>Aditya Pratap Singh (A.P.S.)</h1>
   <p><b>Machine Learning Enthusiast | Data Science | Python</b></p>
 </div>
