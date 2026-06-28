@@ -52,3 +52,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Pratap-2&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
+
+### Stats - 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/APS_ISM?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+
+### Activity -
+![LeetCode Stats](https://leetcard.jacoblin.cool/APS_ISM?theme=dark&font=Red%20Hat%20Display&ext=contest)
