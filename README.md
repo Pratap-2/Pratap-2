@@ -1,7 +1,7 @@
 # Hi there, I'm Pratap!! 👋
 
 <div align="center">
-  <img src="ADITYA NEW IMAGE.jpg" width="180" height="180" style="border-radius: 50%;" />
+  <img src="WhatsApp Image 2026-07-04 at 09.53.51.jpeg" width="180" height="180" style="border-radius: 50%;" />
   <h1>Aditya Pratap Singh</h1>
   <p><b>Machine Learning Enthusiast | Data Science | Python</b></p>
 </div>
